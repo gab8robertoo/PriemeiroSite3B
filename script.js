@@ -14,12 +14,12 @@ document.addEventListener('DOMContentLoaded',function ()  {
         document.body.style.fontSize = `${tamanhoatualFonte} rem`;
 
 
-    )
+});
 
 
 
 
-}
+})
 
 
 
